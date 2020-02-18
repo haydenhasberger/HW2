@@ -1,3 +1,12 @@
+// Hayden Hasberger
+// Lee Prather
+// Jeremy Wolfe
+// The first thing our code does is to read the input values and determines if they have any differences in values
+// If the two terms differ by one varibale then the program adds them together to form one term
+// If the numbers in each group are serparated by more than one group then they are not added together
+// Once the terms are all added up, their values are then derived from the added values to produce the output code
+// The output code is then the optimization of the curcuit that is being looked at
+
 import java.util.Arrays;
 
 public class qm {
